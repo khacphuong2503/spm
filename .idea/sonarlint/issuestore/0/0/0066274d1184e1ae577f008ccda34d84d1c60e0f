@@ -1,0 +1,16 @@
+
+b	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(¡éÙÌ8øÃÉƒ¨1
+P
+java:S2755\"3Disable access to external entities in XML parsing.(ûËş—8„ÄÉƒ¨1
+|
+java:S3305$"ZInject this field value directly into "securityFilterChain", the only method that uses it.(²Ëøùÿÿÿÿ8…ÄÉƒ¨1
+˜
+java:S1128"{Remove this unused import 'org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity'.(Ô¦ø8ŒÄÉƒ¨1
+}
+java:S1128"[Remove this unused import 'org.springframework.security.config.http.SessionCreationPolicy'.(‚ÌÎîüÿÿÿÿ8ŒÄÉƒ¨1
+l
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ŒÄÉƒ¨1
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8ŒÄÉƒ¨1
+ƒ
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8ŒÄÉƒ¨1

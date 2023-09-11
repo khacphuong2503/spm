@@ -1,0 +1,14 @@
+
+z
+java:S1488Y"dImmediately return this expression instead of assigning it to the temporary variable "refreshToken".(ÞÇËÅ
+\
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ôú¦—
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 
+W
+java:S1854c"BRemove this useless assignment to local variable "expirationDate".(“ïÇn
+H
+java:S1481c"3Remove this unused "expirationDate" local variable.(“ïÇn
+N
+java:S11447"3Remove this unused private "isTokenExpired" method.(áÁŠ›ûÿÿÿÿ
+P
+java:S1144G":Remove this unused private "getUserInfoByUsername" method.(Á„é¼

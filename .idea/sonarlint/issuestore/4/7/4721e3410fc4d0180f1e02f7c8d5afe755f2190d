@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 
+Q	java:S125"<This block of commented-out lines of code should be removed.(€ğ×‘
+h
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš
+9
+java:S2119#"Save and re-use this "Random".(¥ŒÌøÿÿÿÿ
+9
+java:S2119$"Save and re-use this "Random".(«éö™ûÿÿÿÿ
+Y
+java:S1854N">Remove this useless assignment to local variable "totalPages".(¶Úôøøÿÿÿÿ
+J
+java:S1481N"/Remove this unused "totalPages" local variable.(¶Úôøøÿÿÿÿ

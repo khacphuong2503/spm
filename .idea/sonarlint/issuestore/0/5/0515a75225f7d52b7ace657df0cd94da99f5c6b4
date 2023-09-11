@@ -1,0 +1,27 @@
+
+c	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(á™‡ğ8Äª‡¨1
+h	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(ÊÓñ•úÿÿÿÿ8Äª‡¨1
+h	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(ìæÁßøÿÿÿÿ8Äª‡¨1
+c
+java:S1192m"FDefine a constant instead of duplicating this literal "title" 3 times.(ãŠ—™8Åª‡¨1
+l
+java:S1192V"ODefine a constant instead of duplicating this literal "Book not found" 7 times.(Ë„¦Œ8Åª‡¨1
+X
+java:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8–ùŸ¨1
+i
+java:S2184š"FCast one of the operands of this multiplication operation to a "long".(™ü´ÿûÿÿÿÿ8šùŸ¨1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 8Éª‡¨1
+t
+java:S2259Š"V"NullPointerException" will be thrown when invoking method "generateUniqueFileName()".(øú˜8«‡¨1
+l
+java:S2259æ"NA "NullPointerException" could be thrown; "originalFilename" is nullable here.(ÁğÎ8óùŸ¨1
+t
+java:S2259Ë"V"NullPointerException" will be thrown when invoking method "generateUniqueFileName()".(øú˜8«‡¨1
+X	java:S899é";Do something with the "boolean" value returned by "delete".(¢áôÚ8”«‡¨1
+l
+java:S4042é"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¢áôÚ8”«‡¨1
+W	java:S899„";Do something with the "boolean" value returned by "delete".(ƒÀÜG8–«‡¨1
+k
+java:S4042„"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ƒÀÜG8–«‡¨1
+D
+java:S1168®"&Return an empty array instead of null.(¥¹ï8˜«‡¨1

@@ -1,0 +1,21 @@
+
+e
+java:S1192c"ODefine a constant instead of duplicating this literal "User not found" 3 times.(¢ •Ä
+m
+java:S1192g"WDefine a constant instead of duplicating this literal "Email already verified" 3 times.(ßÆÉ‰
+
+java:S1488¼"hImmediately return this expression instead of assigning it to the temporary variable "verificationCode".(ö¤ŸÖ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 
+M
+java:S25896"7Remove this expression which always evaluates to "true"(Ô¿ôÊ
+W
+java:S1854U"<Remove this useless assignment to local variable "response".(ÞþíÍúÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÄýÚ	
+H
+java:S1481U"-Remove this unused "response" local variable.(ÞþíÍúÿÿÿÿ
+_
+java:S5361¼"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ö¤ŸÖ
+C
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ
+V
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØŽúøÿÿÿÿ

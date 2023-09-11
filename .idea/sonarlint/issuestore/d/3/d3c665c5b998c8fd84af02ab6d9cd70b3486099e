@@ -1,0 +1,10 @@
+
+^
+java:S1128"CRemove this unused import 'jakarta.validation.constraints.Pattern'.(Îá˜ãúÿÿÿÿ
+\
+java:S1128
+"ARemove this unused import 'jakarta.validation.constraints.Email'.(Öï¤Âıÿÿÿÿ
+Z
+java:S1128"DRemove this unused import 'jakarta.validation.constraints.NotEmpty'.(µÇî±
+V
+java:S1128"@Remove this unused import 'jakarta.validation.constraints.Size'.(çÀ…Í

@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 
+V	java:S125h"<This block of commented-out lines of code should be removed.(¥Íûÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'com.javatechie.entity.Books'.(ÿüðÈ
+X
+java:S1128
+"BRemove this unused import 'io.micrometer.common.util.StringUtils'.(§†±Í

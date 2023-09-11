@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º»®†
+l	java:S116"WRename this field "MAX_ATTEMPTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç˜çå
+u	java:S116"`Rename this field "LOCK_DURATION_MINUTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‰∞â
+7
+java:S1170"!Make this final field static too.(ç˜çå
+7
+java:S1170"!Make this final field static too.(Ø‰∞â

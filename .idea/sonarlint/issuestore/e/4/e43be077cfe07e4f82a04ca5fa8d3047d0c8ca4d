@@ -1,0 +1,16 @@
+
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(¡ö’ğüÿÿÿÿ8á®Š•§1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼È¨ 8 “ê”§1
+n
+java:S1854 "LRemove this useless assignment to local variable "currentOtpExpirationTime".(«€èûÿÿÿÿ8ÜÁŠ•§1
+_
+java:S1481 "=Remove this unused "currentOtpExpirationTime" local variable.(«€èûÿÿÿÿ8ŞÁŠ•§1
+]	java:S125!"<This block of commented-out lines of code should be removed.(¢¤‚Êøÿÿÿÿ8ßÁŠ•§1
+Z
+java:S18541"8Remove this useless assignment to local variable "user".(…°Ø²ûÿÿÿÿ8àÁŠ•§1
+K
+java:S14811")Remove this unused "user" local variable.(…°Ø²ûÿÿÿÿ8áÁŠ•§1
+:
+java:S2119I"Save and re-use this "Random".(¼İÅf8æÁŠ•§1
+R
+java:S1144F"0Remove this unused private "generateOTP" method.(şµÆ‰şÿÿÿÿ8ëÁŠ•§1
